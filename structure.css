@@ -1,0 +1,43 @@
+/*
+* Chioma Njoku
+* April 12, 2019
+* HTML Structure Elements Classwork
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body properties here */
+
+
+header {
+
+width: 80%;
+    
+margin: auto;
+    
+background-color: lightpink
+}
+
+
+main {
+    
+width: 80%;
+    
+margin: auto;
+    
+background-color: lightcyan;
+    
+}
+
+footer {
+    
+width: 80%;
+    
+margin: auto;
+    
+background-color: lightgoldenrodyellow;
+}
